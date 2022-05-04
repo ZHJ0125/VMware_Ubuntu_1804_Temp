@@ -4,7 +4,8 @@
 欢迎使用 VMware_Ubuntu_18.04 虚拟机压缩包，系统版本 Ubuntu_18.04_LTS
 该压缩包内置了一些开发中常用的软件，包括VSCode、Chrome、搜狗中文输入法、终端美化等
 * 版本: V0.1-20220205
-* 下载链接: https://pan.baidu.com/s/1R3tkvY-P3Q_ANoVZ7x70tw?pwd=djw4
+* 虚拟机压缩包: https://pan.baidu.com/s/1R3tkvY-P3Q_ANoVZ7x70tw?pwd=djw4
+* 虚拟机OVA文件：https://pan.baidu.com/s/1ZWIZ1izEI1LURlEYhqeQAw?pwd=8421
 * 联系方式: https://github.com/ZHJ0125
 -----------------------------------------------------------------------
 文件说明：
